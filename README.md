@@ -16,16 +16,19 @@ You can click the Preview link to take a look at your changes.
 
 <h1> Hi! My name is Fernando Di Nardo L. </h1>
 <br>
+<br>
 
 <div>
   
-  <a href="https://github.com/fernandodinardo"><br>
+  <a href="https://github.com/fernandodinardo">
+  <br>
     
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=fernandodinardo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/><br>
     
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodinardo&layout=compact&langs_count=7&theme=react" /><br>
     
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+
 </div>
 <br>
   
