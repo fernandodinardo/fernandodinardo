@@ -9,9 +9,6 @@
 ## LinkedIn
 https://www.linkedin.com/in/fernando-di-nardo-lazarin-82037975/
 
-## Instagram
-https://www.instagram.com/fernando.dinardo/
-
 <!---
 fernandodinardo/fernandodinardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
