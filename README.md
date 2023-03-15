@@ -33,22 +33,24 @@ You can click the Preview link to take a look at your changes.
 <br>
   
 <div  align="center">
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
+  <br>
     
   <img align="center" alt="HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Csharp" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="PHP" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    
+  <img align="center" alt="Java" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Csharp" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
   </div>
   <br>
   <br>
+  
   <a href="https://www.linkedin.com/in/fernando-di-nardo-lazarin-82037975/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<br><br>
+  <br>
+  <br>
 </div>
   
   ![Snake animation](https://github.com/fernandodinardo/fernandodinardo/blob/output/github-contribution-grid-snake.svg)
-
-
+  
